@@ -1,1 +1,19 @@
-/* css styles */
+/* styles.css */
+
+/* Center text and image on the homepage */
+h1, p {
+    text-align: center;
+  }
+  
+  img {
+    display: block;
+    margin: 0 auto;
+    width: 50%; /* Adjust as needed */
+  }
+  
+  .blog-post {
+    margin: 20px 0;
+    padding: 10px;
+    border: 1px solid #ddd;
+  }
+  
